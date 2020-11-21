@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-awox",
-  "version": "1.2.0",
-  "description": "control awox smartlight with homebridge",
+  "name": "homebridge-awox-dave",
+  "version": "1.2.1",
+  "description": "control awox smartlight with homebridge (Dave version)",
   "main": "index.js",
   "scripts": {},
   "repository": {
@@ -26,7 +26,6 @@
     "homebridge": ">=0.3.0"
   },
   "dependencies": {
-    "awox-smartlight": "^1.1.2",
-    "mqtt": "^2.13.0"
+    "awox-smartlight-dave": "file:/home/dave/Awox/awox-smartlight-dave"
   }
 }
